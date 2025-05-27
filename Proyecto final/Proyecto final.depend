@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748319269 source:c:\users\reneh\documents\amerike\1ersem\progra\4parcial\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
